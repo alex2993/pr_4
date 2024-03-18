@@ -1,0 +1,23 @@
+{
+  "name": "pr_4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js" 
+  },
+  "author": "sjifisd",
+  "license": "ISC",
+  "description": "mocha",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex2993/pr_4.git"
+  },
+  "keywords": [
+    "idnibnsdibnvfi"
+  ],
+  "bugs": {
+    "url": "https://github.com/alex2993/pr_4/issues"
+  },
+  "homepage": "https://github.com/alex2993/pr_4#readme"
+}
